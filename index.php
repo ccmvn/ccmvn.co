@@ -30,6 +30,7 @@
                 <a href="mailto:info@ccmvn.co" title="Email"><i class="fas fa-envelope"></i></a>
                 <a href="https://www.linkedin.com/in/marvin-juraschka-05b840270/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
                 <a href="https://github.com/ccmvn/" title="GitHub"><i class="fab fa-github"></i></a>
+                <a href="https://mylogin.exin.nl/AppPool_4/polarserver.asp?ToolName=CertificateCheckTool&LastName=Juraschka&CertificateNumber=6509563.20853875&ModuleID=630589&SID=67CE8A028C7AD649BC7C153D0B58C185&PageID=0" title="Scrum Master Certificate"><i class="fas fa-award"></i></a>
             </div>
         </div>
         <div id="legal" class="padded">
