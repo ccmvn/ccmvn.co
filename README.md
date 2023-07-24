@@ -1,1 +1,1 @@
-Welcome to my personal website! This repository serves as the source code for my own private website. 
+🎉 Welcome to my personal website! 🌟 This repository serves as the source code for my own private website. 💻📝 Feel free to explore and discover more about me and my interests. 🤗 Don't hesitate to reach out if you have any questions or just want to say hello! 💌
