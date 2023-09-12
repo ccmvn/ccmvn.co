@@ -35,6 +35,21 @@ body {
     overflow: hidden;
 }
 
+.email-info {
+    margin: 0;
+    flex: 1;
+    text-align: left;
+}
+
+#social .email-link.social-link {
+    font-size: 1.1rem;
+}
+
+.pgp-textarea {
+    width: 100%;
+    height: 100px;
+}
+
 .padded {
     padding: 2em;
 }
